@@ -65,7 +65,7 @@ Skills include:
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
   <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" title="Matplotlib" alt="Matplotlib" width="120" height="90"/>&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" **alt="Seaborn" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="90" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="90" height="40"/>
 </div>
   
 
