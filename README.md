@@ -2,7 +2,7 @@
  
 <div align="center">
   
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Douglas Boateng](www.linkedin.com/in/douglasboateng/)
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm [Douglas Boateng](https://www.linkedin.com/in/douglasboateng/)
 </div>
 
 <div align="center">
