@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/dougieboat/dougieboat/blob/d31e683deee33dc66cab4c56b66aeff5c05f2860/GIF.gif" width="600" height="300"/>
+  <img src="https://github.com/dougieboat/dougieboat/blob/d31e683deee33dc66cab4c56b66aeff5c05f2860/GIF.gif" width="800" height="300"/>
 </div>
   
   
@@ -102,7 +102,7 @@ Skills include:
 --------------------------------------
 <!-- Quote -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </div>
 
 
