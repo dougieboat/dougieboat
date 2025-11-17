@@ -86,13 +86,13 @@ Skills include:
 <table>
   <tr>
     <td width="50%">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=dougieboat&theme=tokyonight_duo" alt="GitHub Streak" width="100%" />
+      <a href="https://github.com/Nirzak/streak-stats">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=dougieboat&theme=transparent&hide_border=false" alt="GitHub Streak" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougieboat&layout=compact&theme=tokyonight_duo&bg_color=00000000" alt="Top Langs" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougieboat&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" width="100%" />
       </a>
     </td>
   </tr>
