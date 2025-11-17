@@ -97,9 +97,13 @@ Skills include:
     </td>
   </tr>
 </table>
+  
+--------------------------------------
+<!-- Quote -->
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=transparent)
 
 
- 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A2AEEB&height=70&section=footer"/>
 
  
