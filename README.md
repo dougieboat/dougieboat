@@ -56,10 +56,9 @@ Skills include:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="Excel" alt="Excel" width="50" height="50"/>&nbsp;
+  <img src="Assets\excel-logo.png" title="Excel" alt="Excel" width="50" height="50"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968557.png" alt="Google Sheets" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp;
-  <img src="https://1000logos.net/wp-content/uploads/2022/03/Tableau-Logo.png" title="Tableau" alt="Tableau" width="90" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy"  alt="NumPy" width="90" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
@@ -100,7 +99,9 @@ Skills include:
   
 --------------------------------------
 <!-- Quote -->
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=transparent)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=transparent" />
+</div>
 
 
 
@@ -110,5 +111,3 @@ Skills include:
 <!--
 **dougieboat/dougieboat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-
