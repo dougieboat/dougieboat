@@ -104,9 +104,12 @@ Skills include:
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </div>
-
-
-
+  
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=programming&theme=transparent" />
+</div>
+  
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A2AEEB&height=70&section=footer"/>
 
  
