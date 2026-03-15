@@ -10,16 +10,18 @@
 </div>
   
   
-Data analyst skilled in Microsoft Excel, Google Sheets, Power BI, Tableau, SQL, and Python, with a focus on transforming data into meaningful insights that drive decisions.  
+Data Analyst skilled in **Excel, Google Sheets, Power BI, Figma, PowerPoint, SQL**, and **Python**, with a focus on turning messy data into clear, decision-ready insights through strong **data cleaning, modeling, analysis, and storytelling**.
   
-Skills include:
-   * Gathering and consolidating data from multiple sources
-   * Assessing, cleaning, and preparing datasets for analysis
-   * Building and managing data models
-   * Performing in-depth data analysis and creating visualizations
-   * Writing reports and clearly communicating insights
+**Core strengths include:**
   
- 
+* Collecting, merging, and reconciling data from multiple sources (databases, web connections, flat files)
+* Cleaning, validating, and transforming datasets (Power Query, spreadsheets, SQL, Python)
+* Designing and managing data models (star schemas, relationships, fact/dimension tables)
+* Building interactive dashboards and reports (Power BI/Tableau) with thoughtful **UI/UX wireframing** (Figma/PowerPoint)
+* Writing strong SQL for querying, joins, aggregations, and performance-friendly reporting datasets
+* Creating analysis workflows in Python for EDA, visualization, and predictive modeling
+* Communicating insights clearly through reports, presentations, and stakeholder-ready recommendations
+* Versioning and sharing analytics work via **GitHub** for collaboration and reproducibility
   
 -----------------------------
 
