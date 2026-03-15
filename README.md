@@ -48,13 +48,13 @@ Skills include:
 
 * SQL (PostgreSQL, MySQL)
 * Microsoft Excel
-* Microsoft PowerPoint
-* Figma
-* GitHub
 * Google Sheets
 * Power BI
 * Tableau
 * Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn)
+* Figma
+* Microsoft PowerPoint
+* GitHub
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
