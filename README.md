@@ -48,6 +48,9 @@ Skills include:
 
 * SQL (PostgreSQL, MySQL)
 * Microsoft Excel
+* Microsoft PowerPoint
+* Figma
+* GitHub
 * Google Sheets
 * Power BI
 * Tableau
@@ -56,15 +59,18 @@ Skills include:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
-  <img src="Assets\excel-logo.png" title="Excel" alt="Excel" width="50" height="50"/>&nbsp;
+  <img src="Assets/excel-logo.png" title="Excel" alt="Excel" width="50" height="50"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968557.png" alt="Google Sheets" width="50" height="50"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy"  alt="NumPy" width="90" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="90" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
   <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" title="Matplotlib" alt="Matplotlib" width="120" height="90"/>&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" **alt="Seaborn" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="90" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn" alt="Seaborn" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="90" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_PowerPoint_%282025%E2%80%93present%29.svg" title="PowerPoint" alt="PowerPoint" width="50" height="50"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
 </div>
   
 
@@ -72,12 +78,11 @@ Skills include:
 -------------------------------------- 
 ## Featured Projects
   
-|Project|Tools |Description|
-|----------|------------|------------|
-|**[Auto Insurance Claim Prediction](https://github.com/dougieboat/Auto-Insurance-Claim-Predictor)**|<ul><li>Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)</li><li>Jupyter Notebook</li><li>Streamlit</li><li>Power BI</li></ul>|This project focused on developing predictive analytics to identify customers likely to submit a claim within the first three months, uncover customer insights, and propose strategies to boost profitability and efficiency.</ul>|
-|**[South American Celebrities](https://github.com/dougieboat/South-American-Celebrities)**|<ul><li>MySQL</li><li>Power BI</li></ul>|An in-depth analytical report on South American celebrities, focusing on singers and actors. Developed using a custom SQL database and visualized in Power BI to uncover insights on net worth, demographics, career success, and social impact.<br><br>**Activities include:**<ul><li>SQL DDL & DML scripting, querying, joins, and aggregations</li><li>Relational database design</li><li>Data modeling with fact and dimension tables</li><li>Data transformation and extraction</li><li>Power BI reporting and dashboard creation</li><li>Data storytelling and insight presentation</li></ul>|
-|**[UK Bank Customers Analysis](https://github.com/dougieboat/UK-Bank-Customers-Analysis)**|<ul><li>Power BI</li></ul>|An interactive dashboard built in Power BI providing insights into customer demographics, account balances, regional distribution, and banking behaviour. Designed to help stakeholders identify actionable trends and make informed decisions.<br><br>**Activities include:**<ul><li>Data cleaning and transformation with Power Query Editor</li><li>Data modeling using star schema</li><li>Use of relationships and cardinality</li><li>Slicers and filters for interactivity</li><li>Visual storytelling with bar, line, column, doughnut, and map charts</li><li>KPI cards for executive summary insights</li></ul>|
-|**[Chocolate Bar Ratings Analysis](https://github.com/dougieboat/Chocolate-Bar-Ratings-Report)**|<ul><li>Power BI</li></ul>|Data-driven analysis of expert-rated chocolate bars exploring ratings, cocoa content, origins, and manufacturers to uncover what distinguishes high-quality chocolate. Delivered as a rich Power BI report.<br><br>**Activities include:**<ul><li>Power Query transformations</li><li>Star schema data modeling</li><li>Dashboard creation with Power BI</li><li>DAX measures and KPIs</li><li>Time-based trend analysis</li><li>Interactive slicers and decomposition tree visuals</li><li>Business recommendations and insights</li></ul>|
+| Project | Tools | Description |
+|---|---|---|
+| **[Product Performance Analysis (MVP) - Campaigns](https://github.com/dougieboat/Product-Performance-Analysis)** | <ul><li>Google Sheets</li><li>Power BI (Power Query, DAX)</li><li>Figma</li></ul> | An MVP Power BI report evaluating how the **Campaigns** product is performing across **revenue, entries, clients, and campaigns**. Includes participation funnel metrics (**valid vs invalid entries**, **wins/win rate**), reward operations (**disbursed vs pending**), and demographics coverage (regional distribution + gender where collected). Built using **confidential internal company data** (no dataset link). |
+| **[Auto Insurance Claim Prediction](https://github.com/dougieboat/Auto-Insurance-Claim-Predictor)** | <ul><li>Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn)</li><li>Jupyter Notebook</li><li>Streamlit</li><li>Power BI</li></ul> | This project focused on developing predictive analytics to identify customers likely to submit a claim within the first three months, uncover customer insights, and propose strategies to boost profitability and efficiency. |
+| **[South American Celebrities](https://github.com/dougieboat/South-American-Celebrities)** | <ul><li>MySQL</li><li>Power BI</li></ul> | An in-depth analytical report on South American celebrities, focusing on singers and actors. Developed using a custom SQL database and visualized in Power BI to uncover insights on net worth, demographics, career success, and social impact.<br><br><b>Activities include:</b><ul><li>SQL DDL & DML scripting, querying, joins, and aggregations</li><li>Relational database design</li><li>Data modeling with fact and dimension tables</li><li>Data transformation and extraction</li><li>Power BI reporting and dashboard creation</li><li>Data storytelling and insight presentation</li></ul> |
   
 --------------------------------------
 ## GitHub Stats
