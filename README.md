@@ -50,7 +50,6 @@ Skills include:
 * Microsoft Excel
 * Google Sheets
 * Power BI
-* Tableau
 * Python (Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn)
 * Figma
 * Microsoft PowerPoint
